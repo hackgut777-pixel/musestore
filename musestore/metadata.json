@@ -1,0 +1,7 @@
+{
+  "name": "Copy of MUSE - Luxury Bags",
+  "description": "Premium e-commerce mini app for Telegram.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
